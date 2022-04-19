@@ -4,4 +4,4 @@ Prueba
 
 [TEXTO ENLACE](fichero.txt)
 
-![imagen](paisaje.jpg)
+![imagen](paisaje2.jpg)
